@@ -3,7 +3,7 @@ Senior QA Engineer with 7+ years of QA expertise on various projects in agile de
 
 🚀 I work in the fastest growing fintech startup in the Czech Republic<br>🎭 I'm currently exploring all the testing possibilities in Playwright<br>💬 Ask me about anything testing related
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/drajnamichal/drajnamichal/devcard.svg" width="400" alt="Michal Drajna's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/drajnamichal/drajnamichal/blob/main/devcard.svg" width="400" alt="Michal Drajna's Dev Card"/></a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/drajnica) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/michaldrajna-qa/) 
