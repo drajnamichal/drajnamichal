@@ -1,5 +1,5 @@
 # 💫 About Me:
-Senior QA Engineer with 8+ years of QA expertise on various projects in agile development. Experienced in all phases of software testing life cycle including smoke, functional, regression, UI, backend, security and performance testing.<br>
+Senior QA Engineer with 10+ years of QA expertise on various projects in agile development. Experienced in all phases of software testing life cycle including smoke, functional, regression, UI, backend, security and performance testing.<br>
 
 🚀 I work in the fastest growing fintech startup in the Czech Republic<br>🎭 I'm currently exploring all the testing possibilities in Playwright<br>💬 Ask me about anything testing related
 
